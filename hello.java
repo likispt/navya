@@ -4,5 +4,6 @@ public class hello
 	{
 	        System.out.println("welcome to spt");
 		System.out.println("hello world");
+		System.out.println("SE lab");
 	}
 }
